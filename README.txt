@@ -1,8 +1,11 @@
 
 TITLE: 
-Shape - 100% Fully Responsive Free HTML5 Bootstrap Template
+Portfolio
 
 AUTHOR:
+Tan Kenthyvuth
+
+SOURCES:
 DESIGNED & DEVELOPED by GetTemplates.co
 
 Website: http://gettemplates.co/
